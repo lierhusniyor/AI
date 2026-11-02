@@ -1,0 +1,12 @@
+{
+  "name": "Ахрор: 180 дней",
+  "short_name": "Ахрор 180",
+  "description": "С кухни в IT: урок дня, счётчик дней, серия.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#141218",
+  "theme_color": "#141218",
+  "lang": "ru",
+  "icons": [{"src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable"}]
+}
